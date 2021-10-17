@@ -1,3 +1,3 @@
 # tic_tac_toe
 
-Man vs computer tic tac toe game.
+MAN VS COMPUTER tic tac toe game.
