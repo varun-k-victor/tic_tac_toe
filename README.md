@@ -9,4 +9,4 @@ manages to get 3 X/O's in a row/column/diagonal wins.
 
 # Compatibility
 
-works in windows.
+Works on windows.
